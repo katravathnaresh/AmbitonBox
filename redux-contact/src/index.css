@@ -1,0 +1,408 @@
+.nav-link {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 12px;
+ font-weight: 700;
+ 
+
+}
+.navbar-brand{
+   font-size: 15; 
+   font-weight: 800;
+}
+.img-fluid{
+    height: 40px;
+    width: 40px;
+    color: cornsilk;
+}
+.card-link{
+    text-decoration: none;
+}
+#blackdiv{
+    border-radius: 35px;
+}
+.blackdiv-text{
+    color:rgb(219, 194, 144);
+}
+.blackdiv-btn{
+    width: 170px;
+    height: 50px;
+    margin-left:-10px;
+    border-radius: 50px;
+    background-color: rgb(196, 142, 103);
+    color: saddlebrown;
+}
+
+.blackdiv-btn1{
+  width: 150px;
+  height: 50px;
+  margin-left:-20px;
+  border-radius: 50px;
+  
+}
+@media (min-width: 0px) and (max-width: 450px) {
+  .blackdiv-btn1{
+    width: 100px;
+    margin-left:-30px;
+    
+}
+}
+@media (min-width: 768px) and (max-width: 1180px) {
+  .blackdiv-btn1{
+
+   width: 140px; 
+}
+}
+.blackdiv-btn2{
+  width: 200px;
+  height: 45px;
+  margin-left:5px;
+  border-radius: 50px;
+  
+}
+
+
+
+@media (min-width: 0px) and (max-width: 450px) {
+  .blackdiv-btn{
+    width: 100px;
+    margin-left:-30px;
+    
+}
+}
+@media (min-width: 768px) and (max-width: 1180px) {
+  .blackdiv-btn{
+
+   width: 140px; 
+}
+}
+
+.hr-tag{
+    color: blue;
+    
+}
+
+
+span {
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  .icon- {
+    color: black;
+  }
+
+
+.line-h{
+    margin-bottom: -2px;
+}
+#lac{
+    font-size: 15;
+font-weight: 700;
+}
+.header-Discover{
+    font-size: 35px;
+    font-weight: 800;
+    color: cornsilk;
+}
+.header-Discover1{
+  font-size: 35px;
+  font-weight: 800;
+}
+@media (min-width: 280px) and (max-width: 653px) {
+  .header-Discover{
+      padding-left: 35px;
+      margin-top: 20px;
+      
+  }
+  }
+  @media (min-width: 280px) and (max-width: 653px) {
+    .hello{
+        padding-left: 35px;
+        
+        
+    }
+    }
+.nav-bg{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 3;
+    background-color: #2f81ef;
+}
+.nav-bgg{
+    margin-top: 45px;
+    width: 100%;
+    background-color: #2f81ef;
+}
+
+.bi{
+    color: #9bc1f5;
+}
+#card-logo:hover{
+    transform: scale(1.1)
+}
+.card{
+
+  box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
+@media (min-width: 0px) and (max-width: 500px) {
+#card-logo{
+    height: 90px;
+    margin: 20 20 20 20;
+    margin: 10px;
+    margin-left: 20px;
+    width: 100px;
+    
+    
+}
+}
+
+@media (min-width: 500px) and (max-width: 740px) {
+  #card-logo{
+      height: 90px;
+      margin: 20 20 20 20;
+      margin: 10px;
+      margin-left: 53px;
+      width: 100px;
+      
+      
+  }
+}
+@media (min-width: 360px) and (max-width: 800px) {
+  #card-logo{
+      height: 90px;
+      margin: 20 20 20 20;
+      margin: 10px;
+      margin-left: 53px;
+      width: 100px;
+      
+      
+  }
+}
+/* this is a Reviwe component */
+.reviews{
+  margin-top: 300px;
+}
+
+  /* this is footer css -----------------------------------------------------------------------------------------------------------------*/
+  
+      .round{
+          height: 50px;
+        border-radius: 20px;
+      }
+
+      .round-btn{
+        border-radius: 20px;
+      }
+
+
+      .App{
+        font-family: sans-serif;}
+      
+      
+      .logo_text{
+      font-size: 1.325rem;
+          font-weight: 600;
+          
+        }
+        div .col-2{
+          padding:0px;
+         
+        }
+      .lakh{
+          padding:0px;
+          margin:0 100 0 100px;
+        }
+        @media (min-width: 280px) and (max-width: 653px) {
+          .lakhs{
+              padding-left: 3px;
+              font-size: 10px;
+              
+          }
+        }
+        @media (min-width: 280px) and (max-width: 653px) {
+          .lakhss{
+              padding-left: 3px;
+              font-size: 15px;
+              
+          }
+        }
+        .round{
+          border-radius: 20px;
+         margin: 10px;
+         font-size: 0.7rem;
+        }
+        li {
+          text-decoration: none;
+          list-style-type: none;
+          line-height: 40px;
+          font-size: 0.9rem;
+        }
+      
+      .App-logo {
+        height: 40vmin;
+        pointer-events: none;
+      }
+
+      /* this is reveiws css------------------------------------------------- */
+      .browse{
+        font-weight: 700;
+
+    }
+
+    @media (max-width: 1280px) and (min-width: 820px) {
+      .img-locations{
+          height: 70px;
+          width: 80px;
+          margin-left: 10px;
+      }
+    }
+    @media (min-width: 280px) and (max-width: 823px) {
+      .img-locations{
+          height: 70px;
+          width: 60px;
+          margin-left: 20px;
+      }
+    }
+    @media (min-width: 820px) and (max-width: 1180px) {
+      .img-locations{
+          height: 70px;
+          margin-left: 30px;
+          
+      }
+    }
+    @media (min-width: 600px) and (max-width: 1024px) {
+      .img-locations{
+          height: 60px;
+          margin-left: 0px;
+          
+      }
+    }
+    
+    @media (min-width: 768px) and (max-width: 1368px) {
+      .img-locations{
+          height: 60px;
+          margin-left: 40px;
+          
+      }
+    }
+  
+
+    @media (min-width: 280px) and (max-width: 599px) {
+      .img-locations{
+          
+          margin-left: 90px;
+          
+      }
+    }
+    @media (min-width: 1180px) and (max-width: 2250px) {
+      .img-locations{
+          height: 70px;
+          margin-left: 30px;
+          
+      }
+    }
+  .army{
+    font-size: 20px; 
+    font-weight: 700;
+  }
+  #army{
+    margin-left: 10px;
+  }
+.shere{
+  background-color: #f0f5fc;
+}
+.jobs{
+  border-radius: 30px;
+  background-color: #f4f9ff;
+  text-align: center;
+  padding:6px;
+}
+.jobs-footer{
+  margin-bottom: 200px;
+}
+/* this is interview css ----------------------------------------------------------- */
+.interview-bg{
+  background-color:#e7f0fc;
+  padding-bottom: 50px;
+  
+}
+#senior{
+  font-weight: 700;
+}
+
+.zoom:hover{
+  background-color: #e7f0fc ;
+  transform: scale(1.1); 
+}
+
+/* salary inputs--------------------------------------- */
+.form__group {
+  position: relative;
+  padding: 15px 0 0;
+  margin-top: 10px;
+  width: 50%;
+}
+.form__field {
+  font-family: inherit;
+  width: 250px;
+  border: 0;
+  border-bottom: 1px solid #9b9b9b;
+  outline: 0;
+  font-size: 1.3rem;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+.form__field::placeholder {
+  color: transparent;
+}
+.form__field:placeholder-shown ~ .form__label {
+  font-size: 1.0rem;
+  cursor: text;
+  top: 20px;
+}
+.form__label {
+  position: absolute;
+  top: 0;
+  display: block;
+  transition: 0.2s;
+  color: #9b9b9b;
+}
+.form__field:focus {
+  padding-bottom: 6px;
+  font-weight: 700;
+  border-width: 3px;
+  border-image: linear-gradient(to right, #d81b1b, #d81b1b);
+  border-image-slice: 1;
+}
+.form__field:focus ~ .form__label {
+  position: absolute;
+  top: 0;
+  display: block;
+  transition: 0.2s;
+  font-size: 1rem;
+  color: #d81b1b;
+  font-weight: 700;
+}
+/* reset input */
+.form__field:required, .form__field:invalid {
+  box-shadow: none;
+}
+/* demo */
+/* this is a companies css-------------------------------------------------------- */
+.company-list{
+  font-weight: 700;
+
+
+}
+
+    
+
+
+    
+    
+    
+
+    
+
+
